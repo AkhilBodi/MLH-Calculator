@@ -1,10 +1,3 @@
-# def nat(a):
-#     while a <= 100:
-#         print(a)
-#         a += 1
-
-# nat(4)
-
 print("Please select the operator\n" \
         "1. Addition\n"
         "2. Subtraction\n"
